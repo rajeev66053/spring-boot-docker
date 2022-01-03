@@ -9,7 +9,7 @@
 
 ## Create a docker file in spring boot application
 
-## Generate a jar file from spring boot application
+## Generate a jar file from spring boot application. Give the jar file name in pom.xml file.
 
 ## Run a cmd from application path and run command to build docker image
 ###### docker build -t spring-boot-docker.jar .
